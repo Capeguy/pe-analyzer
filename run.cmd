@@ -1,1 +1,1 @@
-python main.py samples/tpm.sys samples/dbx-canary.sys samples/vmbus.sys samples/calc.exe samples/xwizards.dll samples/packed.exe
+python main.py samples/tpm.sys samples/calc.exe samples/xwizards.dll samples/packed.exe
